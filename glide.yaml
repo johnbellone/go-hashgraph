@@ -1,0 +1,8 @@
+package: github.com/johnbellone/go-hashgraph
+license: Apache
+owners:
+  - name: John Bellone
+    email: jbellone@fastmail.com
+import:
+- package: github.com/hashicorp/memberlist
+  version: ^0.1.0

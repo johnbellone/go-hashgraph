@@ -1,0 +1,22 @@
+hash: 6fa88f50d7a8576b0499bda3f5c5e0210f41b20b19f729dc313fdff5f98bd407
+updated: 2017-06-16T21:21:43.560339761-04:00
+imports:
+- name: github.com/armon/go-metrics
+  version: f036747b9d0e8590f175a5d654a2194a7d9df4b5
+- name: github.com/hashicorp/errwrap
+  version: 7554cd9344cec97297fa6649b055a8c98c2a1e55
+- name: github.com/hashicorp/go-msgpack
+  version: fa3f63826f7c23912c15263591e65d54d080b458
+  subpackages:
+  - codec
+- name: github.com/hashicorp/go-multierror
+  version: ed905158d87462226a13fe39ddf685ea65f1c11f
+- name: github.com/hashicorp/go-sockaddr
+  version: 2d10d7c10258d11196c0ebf2943509e4afd06cd4
+- name: github.com/hashicorp/memberlist
+  version: ce8abaa0c60c2d6bee7219f5ddf500e0a1457b28
+- name: github.com/miekg/dns
+  version: e78414ef75607394ad7d917824f07f381df2eafa
+- name: github.com/sean-/seed
+  version: e2103e2c35297fb7e17febb81e49b312087a2372
+testImports: []
